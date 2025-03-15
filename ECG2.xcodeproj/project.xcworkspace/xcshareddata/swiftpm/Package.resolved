@@ -1,0 +1,24 @@
+{
+  "originHash" : "07af1b46f9ab12abf41ddf5360007adb63a11d29ea208da13ce33969a65ba2f5",
+  "pins" : [
+    {
+      "identity" : "peakswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CardioKit/PeakSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ab07d5336590860a30cf365e22e6d7586046b16c"
+      }
+    },
+    {
+      "identity" : "surge",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jounce/Surge.git",
+      "state" : {
+        "revision" : "6e4a47e63da8801afe6188cf039e9f04eb577721",
+        "version" : "2.3.2"
+      }
+    }
+  ],
+  "version" : 3
+}
