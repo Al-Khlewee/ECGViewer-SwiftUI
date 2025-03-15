@@ -22,7 +22,7 @@ A modern iOS application built with SwiftUI for visualizing and analyzing ECG (E
 
 1. Clone the repository
 ```sh
-git clone https://github.com/yourusername/ECGViewer-SwiftUI.git
+git clone https://github.com/Al-Khlewee/ECGViewer-SwiftUI.git
 ```
 
 2. Open `ECG2.xcodeproj` in Xcode
@@ -53,7 +53,7 @@ MIT License - see LICENSE file for details
 
 Your Name
 - GitHub: [@Al-Khlewee](https://github.com/Al-Khlewee)
-- LinkedIn: [HATEM JASIM HATEM](www.linkedin.com/in/hatem-jasim-hatem)
+- LinkedIn: [HATEM JASIM HATEM](https://www.linkedin.com/in/hatem-jasim-hatem/)
 
 ## Acknowledgments
 
