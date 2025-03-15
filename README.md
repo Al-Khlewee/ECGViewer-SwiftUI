@@ -52,8 +52,8 @@ MIT License - see LICENSE file for details
 ## Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Al-Khlewee](https://github.com/Al-Khlewee)
+- LinkedIn: [HATEM JASIM HATEM](www.linkedin.com/in/hatem-jasim-hatem)
 
 ## Acknowledgments
 
